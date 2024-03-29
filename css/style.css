@@ -533,12 +533,12 @@ h5 {
   margin-bottom: 2.5rem;
 }
 
-.mt-16 {
-  margin-top: 4rem;
-}
-
 .mb-24 {
   margin-bottom: 6rem;
+}
+
+.mt-16 {
+  margin-top: 4rem;
 }
 
 .mt-20 {
@@ -563,10 +563,6 @@ h5 {
 
 .w-32 {
   width: 8rem;
-}
-
-.max-w-3xl {
-  max-width: 48rem;
 }
 
 .max-w-md {
@@ -627,10 +623,6 @@ h5 {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
-}
-
-.rounded {
-  border-radius: 0.25rem;
 }
 
 .rounded-full {
